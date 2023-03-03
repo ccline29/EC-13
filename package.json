@@ -1,5 +1,5 @@
 {
-  "name": "EC-13",
+  "name": "ec-13",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/ccline29/EC-13"
   },
   "keywords": [],
   "author": "",
