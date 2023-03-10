@@ -42,6 +42,7 @@ router.post('/', (req, res) => {
       product_name: "Basketball",
       price: 200.00,
       stock: 3,
+      category_id: 5,
       tagIds: [1, 2, 3, 4]
     }
   */
@@ -57,6 +58,7 @@ router.post('/', (req, res) => {
         });
         return ProductTag.bulkCreate(productTagIdArr);
       }
+      
       // if no product tags, just respond
       res.status(200).json(product);
     })
