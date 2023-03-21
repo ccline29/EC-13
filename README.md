@@ -25,6 +25,7 @@ I want to build a back end for an E-Commerce Site. Construct routes to perform R
 4. Sequelize
 5. Express.js
 6. Insomnia
+7. Help from my tutor,James Compagnoni and TA Walter Perry!
 
 ## Screenshot
 GET TAGS
